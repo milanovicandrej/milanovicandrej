@@ -7,9 +7,9 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm an undergraduate Computer Science and Electronic Engineering student. :electron:
-- 🔭: I’m currently working on many small Webdev projects, a 6502 emulator , and a bunch of more stuff.
-- 🌱: I’m currently learning,Advanced Linux development,Operating Systems and Advanced Computer Networks. 💻
-- 🤔: I’m looking for help with the 6502 emulator. 😅
+- 🔭: I’m currently working on a 6502 emulator, many small Webdev projects, and a bunch of more stuff.
+- 🌱: I’m currently learning, Advanced Linux development, Operating Systems and development in Rust. 💻
+- 🤔: I’m looking for help with the PPLVC emulator. 😅
 - 💬: Ask me about Linux, Software Development, anything and everything... 🐧
 - ⚡  Fun fact: I finished high school as a Pharmaceutical technician,and I play the Guitar and the Piano! 🎸💊🎹
   
@@ -32,4 +32,4 @@
  
 
 Credit: [milanovicandrej](https://github.com/milanovicandrej)
-Last Edited on: 16/11/2021
+Last Edited on: 08/12/2022
